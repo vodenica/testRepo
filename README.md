@@ -1,2 +1,2 @@
 # testRepo
-Test repository from IDM Full Stack developer Professional Certificate.
+Test repository from IBM Full Stack developer Professional Certificate.
